@@ -1,5 +1,5 @@
 #source : https://community.splunk.com/t5/Splunk-Search/How-to-search-for-failed-login-attempts/m-p/286525 
-index=<enter_index>
+index=wineventlog
 sourcetype="WinEventLog:Security" 
 EventCode=4624 
 Account_name=<enter_Account>
