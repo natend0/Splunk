@@ -2,4 +2,4 @@
 index=wineventlog
 sourcetype="WinEventLog:Security" 
 EventCode=4624 
-Account_name=<enter_Account>
+| Account_name=<enter_Account>
