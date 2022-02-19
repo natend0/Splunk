@@ -1,0 +1,4 @@
+#source: https://community.splunk.com/t5/Security/Account-lockout/m-p/491163
+index=wineventlog 
+EventCode=4740
+| Account_name=<enter_account>
