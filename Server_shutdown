@@ -1,0 +1,3 @@
+index="wineventlog"
+host=<enterhost>
+EventCode=1074
